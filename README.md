@@ -1,3 +1,10 @@
+```shell
+docker build -t cuea-website-astrowind .
+docker compose up
+```
+Will start stripping soon
+
+
 # 🚀 AstroWind
 
 <img src="https://raw.githubusercontent.com/onwidget/.github/main/resources/astrowind/lighthouse-score.png" align="right"
